@@ -11,7 +11,7 @@ Below are previews of each project, along with links to view or edit them direct
 ![Key Rings](image/Key_Rings.png)
 
 ### 🔗 [Key Rings 2](https://cad.onshape.com/documents/c92b7e76c3ff4a6406d077e9/w/2719d93e74b6188ba3b00f7a/e/7a5050682333ae488933a7be?renderMode=0&uiState=680a868acb982f3359c6a2c8)
-![Key Rings 2](image/Key_Rings_2.png)
+![Key Rings 2](image/key_Rings_2.png)
 
 ### 🔗 [Dies](https://cad.onshape.com/documents/cd730c3b21739bc502704e44/w/b84b497107a13a33f397b322/e/afb3aa1ff02ac87c81d99373?renderMode=0&uiState=680a0c996c12993dd3b9281f)
 ![Dies](image/Dies.png)
@@ -26,7 +26,7 @@ Below are previews of each project, along with links to view or edit them direct
 ![Gear](image/Gear.png)
 
 ### 🔗 [Wine Glass](https://cad.onshape.com/documents/b68b552c117ea7ad0fe10320/w/69eb73f1f9e8ba04b3e2adfe/e/6c54fea80e29e427362ac382?renderMode=0&uiState=680a8d088467b830c4c67b0c)
-![Wine Glass](image/Wine_glass.png)
+![Wine Glass](image/Wine_Glass.png)
 
 ### 🔗 [Name Plate](https://cad.onshape.com/documents/3aba817e202719bf2e0c9614/w/0709969711b8159f92ed37bd/e/b0c4e8160cf61c5160d800ff?renderMode=0&uiState=680a8e1b6c12993dd3bb2375)
 ![Name Plate](image/Name_Plate.png)
