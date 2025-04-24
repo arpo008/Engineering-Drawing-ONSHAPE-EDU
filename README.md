@@ -29,7 +29,7 @@ Below are previews of each project, along with links to view or edit them direct
 ![Wine Glass](image/Wine_glass.png)
 
 ### 🔗 [Name Plate](https://cad.onshape.com/documents/3aba817e202719bf2e0c9614/w/0709969711b8159f92ed37bd/e/b0c4e8160cf61c5160d800ff?renderMode=0&uiState=680a8e1b6c12993dd3bb2375)
-![Name Plate](image/Name_Playe.png)
+![Name Plate](image/Name_Plate.png)
 
 ### 🔗 [Number Plate](https://cad.onshape.com/documents/7df6ccc99930ea24ad73b33b/w/07644a453356693614ab8153/e/f19295ea192fe18e4159b4e0?renderMode=0&uiState=680a8e58d148f149225b37ed)
 ![Number Plate](image/Number_Plate.png)
